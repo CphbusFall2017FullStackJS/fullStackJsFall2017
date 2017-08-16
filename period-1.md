@@ -6,7 +6,7 @@
 [Learning Goals Period1](https://docs.google.com/document/d/1nOrVsZGVxK0RMW-1MJPjurROR50Fq2NQbi4iOaBN-M0/)
 
 # **23-08-Wednesday** 
-* A quick intro to the semester via a come-along mobile location example
+* A quick intro to the semester via a code-along mobile location-based example
 * Vanilla JavaScript and es2015/16
 * An introduction to Node.JS
 * Scope, Hoisting, Closures, this, Prototyping, etc.
