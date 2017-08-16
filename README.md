@@ -23,4 +23,17 @@ You are expected, each week to write a lot of different JavaScript code, and als
 
 Before each lesson there will be articles to read, videos to watch, and sometimes software you should have installed before the lesson. I don't go through everything in my lessons, and I do assume you are prepared and have at least skimmed the readings and videos before a lesson.
 
+## How to get your StudyPoints
+
+You get (as usual) points for attendance and "doing stuff"
+
+The new thing this semester is that: for the first two hand-inds, you as a class review the hand-ins, assign study points, and provide feedback to the student being reviewed.
+
+The other new thing is, that that a person being reviewed, assign study points to the reviewer, related to the effort placed in providing a valid feedback.
+
+#### Why do it this way
+
+First, and least important. I simply don't have enough time to review more than 25 different hand-ins; six times throughout the semester.
+
+More important, This is a very common discipline in real life, both to ensure quality in provided code and to share knowledge among developers. So do it TO LEARN.
 
