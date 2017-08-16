@@ -18,8 +18,8 @@
 * [Read](https://code.visualstudio.com/Docs/languages/javascript) this document about vs-code, and install (my recommendations) the following extensions before the lesson: 
  *Debugger for Chrome, EsLint, Babel ES6/ES7, Path IntelliSense, npm Intellisense, vscode-icons*
 * If you like videos, watch a few of [these](https://code.visualstudio.com/docs/introvideos/overview) (you might wanna come back later):
-
-**Please note:Without Node + a sufficient Editor/IDE, there is really no reason to attend this lesson ;-)** 
+* And **Important** for a quick code-along demo for this first day, download and install the [Expo tools from this link](https://expo.io/) and **important** also the Expo app on your (Android/IOS) Phone (see the link)
+**Please note: Without Node + a sufficient Editor/IDE, there is really no reason to attend this lesson ;-)** 
 
 **Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:**  TBD   
 
