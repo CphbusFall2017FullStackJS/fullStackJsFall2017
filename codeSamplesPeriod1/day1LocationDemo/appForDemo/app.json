@@ -1,0 +1,8 @@
+{
+  "expo": {
+    "sdkVersion": "17.0.0",
+    "name" : "locationDemo",
+    "privacy": "public",
+    "icon" : "images/icon.png"
+  }
+}
