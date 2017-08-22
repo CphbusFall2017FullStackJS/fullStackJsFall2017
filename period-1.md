@@ -22,7 +22,7 @@
 
 **Please note: Without Node + a sufficient Editor/IDE, there is really no reason to attend this lesson ;-)** 
 
-**Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:**  TBD   
+**Exercises:** <a href="https://docs.google.com/document/d/1nGvH5rrd2yhnZqnKfvgS5hBQqwhbbSVyHG31MenA7-o" target="_blank" >Day-1 Exercises</a>   **Slides:** [About the Course](http://js-plaul.rhcloud.com/fsj/fsj.html#1), [Node-introduction](http://js-plaul.rhcloud.com/node1/NodeIntro.html), [JavaScript-intro](http://js-plaul.rhcloud.com/javascript1/js.html#1)  
 
 # **25-08-Friday**
 * Vanilla JavaScript Continued
