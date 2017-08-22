@@ -35,7 +35,7 @@
 * Read: [Art of node](https://github.com/maxogden/art-of-node) (read the whole “book”, it’s short and clear)
 Or Watch:
 * [Introduction to Node.js](https://www.youtube.com/watch?v=GJmFG4ffJZU)  (be sure to have your editor open, and code along)
-* No matter what, you should watch this this fantastic video: [The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
+* No matter what, you MUST watch this this fantastic video: [The Event Loop](https://www.youtube.com/watch?v=8aGhZQkoFbQ)
 
 **Exercises:** Complete all exercises from learnyournode, introduced day-1.
 Hints: You should really try hard before this, but all solutions can be found here: 
