@@ -11,6 +11,7 @@
 * An introduction to Node.JS
 * Scope, Hoisting, Closures, this, Prototyping, etc.
 * Basic asynchronous programming with JavaScript
+
 [Day one demo](https://docs.google.com/document/d/1nmRhBAHlbkq9LUP0k0UlqXjqwu5-mDU_XzYzYQ_epQs/edit?usp=sharing)
 
 #### Before this lesson you should:
