@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { Platform, Text, View, StyleSheet, TouchableHighlight, Alert } from 'react-native';
 import { Constants, Location, MapView, Permissions } from 'expo';
 import MyButton from "./Btn.js";
-const SERVER_URL = "http://138.68.98.213";
+const SERVER_URL = "http://node.mydemos.dk";
 
 
 export default class App extends Component {
