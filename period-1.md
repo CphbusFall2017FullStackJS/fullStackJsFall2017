@@ -52,6 +52,8 @@ Hints: You should really try hard before this, but all solutions can be found he
 Read:
 [Understanding ES5, ES2015 and TypeScript:](https://johnpapa.net/es5-es2015-typescript/)
 
+Setup: [Setup VS-code for typescript as explained here](https://code.visualstudio.com/docs/languages/typescript)
+
 Watch (Two nice videos to prepare you for es2015, be sure to code along)
 * [es2005-video-1](https://www.youtube.com/watch?v=AfWYO8t7ed4)
 * [es2005-video-2](https://www.youtube.com/watch?v=LmL0Gh193M0)
