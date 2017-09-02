@@ -64,7 +64,8 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 **Slides** [es2015, Babel and Typescript](http://slides.mydemos.dk/es2015_typescript/es5VStypescript.html) , [Webpack and module bundling](http://slides.mydemos.dk/webpack/webpack.html#1)
 
 # 6/9-Wedensday
-* TypeS
+
+TypeScript
 
 #### Before this lesson you should:
 Setup: (if not already done) [Setup VS-code for typescript as explained here](https://code.visualstudio.com/docs/languages/typescript)
