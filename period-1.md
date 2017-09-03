@@ -69,11 +69,17 @@ TypeScript
 
 #### Before this lesson you should:
 Setup: (if not already done) [Setup VS-code for typescript as explained here](https://code.visualstudio.com/docs/languages/typescript)
-**Read:**
-* Read TBD
 
-**Exercises:** [TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
-**Slides:** TBD
+**Read:**
+[TypeScript in 5 minutes](https://www.typescriptlang.org/docs/home.html)
+[Learn TypeScript in 30 Minutes (part of the exercises)[Learn TypeScript in 30 Minutes]
+[Use the handbook as reference for TypeScript](https://www.typescriptlang.org/docs/home.html)
+
+
+**Exercises:** 
+
+[TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
+
 
 # **8-9-Friday**
 ###Complete Hand-in for Period-1
