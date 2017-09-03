@@ -65,6 +65,10 @@ Watch (Two nice videos to prepare you for es2015, be sure to code along)
 
 # 6/9-Wedensday
 
+```diff
+- Bemærk: Jeg er i Polen til React Native Konference, så denne dag er uden underviser
+```
+
 TypeScript
 
 #### Before this lesson you should:
