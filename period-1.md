@@ -75,7 +75,7 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 **Exercises:** [TypeScript](https://docs.google.com/document/d/1Lxg0SkcKzBkARM3nzS-82xHZfqgDECJA9blTbIjaJTQ/edit?usp=sharing)
 **Slides:** TBD
 
-# **8-9-Thuersday**
+# **8-9-Friday**
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
