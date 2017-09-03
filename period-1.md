@@ -71,9 +71,9 @@ TypeScript
 Setup: (if not already done) [Setup VS-code for typescript as explained here](https://code.visualstudio.com/docs/languages/typescript)
 
 **Read:**
-[TypeScript in 5 minutes](https://www.typescriptlang.org/docs/home.html)
-[Learn TypeScript in 30 Minutes (part of the exercises)[Learn TypeScript in 30 Minutes]
-[Use the handbook as reference for TypeScript](https://www.typescriptlang.org/docs/home.html)
+- [TypeScript in 5 minutes](https://www.typescriptlang.org/docs/home.html)
+- [Learn TypeScript in 30 Minutes (part of the exercises)](https://tutorialzine.com/2016/07/learn-typescript-in-30-minutes)
+- [Use the handbook as reference for TypeScript](https://www.typescriptlang.org/docs/home.html)
 
 
 **Exercises:** 
