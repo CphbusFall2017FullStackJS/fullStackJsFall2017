@@ -89,6 +89,8 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 ###Complete Hand-in for Period-1
 
 **Period Milestones:**
-* Period Hand-in:           
+* Period Hand-in: September 9th. 16.00
+* Reviews must be completed: Septemper 12th. 22.00.
 * Hand-in Document [Add your git-links here](https://docs.google.com/spreadsheets/d/1UXovDpSs3P0wAinOGpzb9-QqqhExUTCUhqwsJ5FlPZU/edit?usp=sharing):  
+* [How to hand in](https://docs.google.com/document/d/1mfESEmM5oQfQgpSwi-pc-3Z7baiQaRDsTkLnlwLDBAM/edit?usp=sharing)
 
