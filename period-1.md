@@ -90,5 +90,5 @@ Setup: (if not already done) [Setup VS-code for typescript as explained here](ht
 
 **Period Milestones:**
 * Period Hand-in:           
-* Hand-in Document:  
+* Hand-in Document [Add your git-links here](https://docs.google.com/spreadsheets/d/1UXovDpSs3P0wAinOGpzb9-QqqhExUTCUhqwsJ5FlPZU/edit?usp=sharing):  
 
