@@ -27,7 +27,7 @@ Now just follow the tutorial :-)
 
 
 **Exercises:** [From allmost Zero to start](https://docs.google.com/document/d/12AKRDn-PGH4mkBuKgVpKxqXAw33R5x9DX-QrIHzaPAY) , [Exercises](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)   
-**Slides:** [Express intro](http://js-plaul.rhcloud.com/express1)
+**Slides:** [Express intro](http://slides.mydemos.dk/express1/express1.html)
 
 # **20-09-Wednesday**
 * Express Continued
@@ -41,7 +41,7 @@ Now just follow the tutorial :-)
 * [Complete exercises from last week](https://docs.google.com/document/d/1-Bu_FC___DM9tS8fugsLe4EnwjPs4OSYCe6PMsCVE2Y/edit?usp=sharing)
 * [Deploy your Express App to DO](https://docs.google.com/document/d/1wPaS9vSoMQNbSR5KTSro7CXt2yfQzm2s9cPM3ZCvmTg/edit?usp=sharing)
 
-[Slides](http://js-plaul.rhcloud.com/rest/rest.html)
+[Slides](http://slides.mydemos.dk/rest/rest.html)
 
 # **22-09-Friday**
 * JavaScript Testing
@@ -69,7 +69,7 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 
 [Cool Mocha Tutorial](https://semaphoreci.com/community/tutorials/getting-started-with-node-js-and-mocha)
 
-[Slides](http://js-plaul.rhcloud.com/test1/unitTestingBackend.html#1)
+[Slides](http://slides.mydemos.dk/test1/unitTestingBackend.html#1)
 
 
 # **27-09-Wednesday**
