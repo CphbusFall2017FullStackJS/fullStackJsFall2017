@@ -73,6 +73,25 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 
 
 # **27-09-Wednesday**
+Short introduction to NoSQL, MongoDB and Mongoose
+
+#### Before this lesson you should:
+TBD
+
+### Read/Watch
+TBD
+
+
+# **29-09-Friday**
+BAsic Web-Security for Node Applications
+
+#### Before this lesson you should:
+TBD
+
+### Read/Watch
+TBD
+
+# **4-10-Wednesday**
 ###Complete Hand-in for Period-2
 
 **Period Milestones:**
