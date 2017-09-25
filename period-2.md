@@ -76,10 +76,23 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 Short introduction to NoSQL, MongoDB and Mongoose
 
 #### Before this lesson you should:
-TBD
+I don't plan to talk about NoSQL in general, because Martin Fowler does it a lot better than me. Watch the video given below, either before or afther the lesson. It covers all "general questions" related to NoSQL
+
+Usually I always recommend a local database for development. Since we only have one day for this topic however, I suggest you create a free account on mlab.com as outlined below, and use this account for all exercises related to MongoDB and Mongoose.
+- Create an Account on mlab.com
+- Log in
+- Create new database
+- Just choose amazon, Google and SANDBOX
+- Select Europe
+- Give it a name
+- Click on the database and select Users
+- Add database user (otherwise we can’t connect)
+- Then copy the standard URI (mongodb// …)
+- Use this URL in your Code Examples
 
 ### Read/Watch
-TBD
+[Introdoction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+
 
 
 # **29-09-Friday**
