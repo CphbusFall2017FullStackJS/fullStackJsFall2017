@@ -76,7 +76,7 @@ As usual, the API descriptions should be your main resource for Mocha/Chai-quest
 Short introduction to NoSQL, MongoDB and Mongoose
 
 #### Before this lesson you should:
-I don't plan to talk about NoSQL in general, because Martin Fowler does it a lot better than me. Watch the video given below, either before or afther the lesson. It covers all "general questions" related to NoSQL
+I don't plan to talk about NoSQL in general, since Martin Fowler does it a lot better than me. Watch the video given below, either before or afther the lesson. It covers all "general questions" related to NoSQL
 
 Usually I always recommend a local database for development. Since we only have one day for this topic however, I suggest you create a free account on mlab.com as outlined below, and use this account for all exercises related to MongoDB and Mongoose.
 - Create an Account on mlab.com
@@ -91,9 +91,18 @@ Usually I always recommend a local database for development. Since we only have 
 - Use this URL in your Code Examples
 
 ### Read/Watch
-[Introdoction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [Introduction to NoSQL - Martin Fowler](https://www.youtube.com/watch?v=qI_g07C_Q5I)
+- [What is Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications) (this is also one of the exercises for today)
 
+### Exercises
+ [What is Mongoose](https://scotch.io/tutorials/using-mongoosejs-in-node-js-and-mongodb-applications)
+ 
+ *This is part of a larger tutorial, related to Express. Complete this tutorial (you also have a great deal of next week) to get a complete Express example including a database*
+ 
+ [Express Tutorial Part 3: Using a Database (with Mongoose)](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Express_Nodejs/mongoose#Mongoose_primer)
 
+#### Slides
+Mongo/Mongoose Slides will follow
 
 # **29-09-Friday**
 BAsic Web-Security for Node Applications
