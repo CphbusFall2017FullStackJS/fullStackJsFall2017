@@ -82,7 +82,7 @@ Usually I always recommend a local database for development. Since we only have 
 - Create an Account on mlab.com
 - Log in
 - Create new database
-- Just choose amazon, Google and SANDBOX
+- Just choose amazon or Google or .. and SANDBOX
 - Select Europe
 - Give it a name
 - Click on the database and select Users
