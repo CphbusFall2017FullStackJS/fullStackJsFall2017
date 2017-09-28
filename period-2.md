@@ -121,6 +121,7 @@ Before the lesson, you should read the following:
 A couple of quick videos that can be enjoyed on the couch
 
 - Cross Site Scripting (XSS): https://www.youtube.com/watch?v=L5l9lSnNMxg
+- Cross Site Request Forgery Explained: https://www.youtube.com/watch?v=vRBihr41JTo
 - Cookie Stealing: https://www.youtube.com/watch?v=T1QEs3mdJoc
 
 ##### Exercises:
