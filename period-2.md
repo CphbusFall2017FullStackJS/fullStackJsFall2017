@@ -108,10 +108,30 @@ Usually I always recommend a local database for development. Since we only have 
 BAsic Web-Security for Node Applications
 
 #### Before this lesson you should:
-TBD
+To "tune" everyone into this new topic, we will make a **hacker competition**, focused around sessions hijacking and cross-site scripting. I will set up a siiiimpel session-driven server that you are allowed to attack and:
 
-### Read/Watch
+- First hacker who discover "secret" data from another user,  receives a GOOD beer ;-)
+
+Before the lesson, you should read the following:
+
+- XSS: https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)
+- Session Hijacking: https://www.owasp.org/index.php/Session_hijacking_attack
+- A bit about it all and jwt's: https://stormpath.com/blog/build-secure-user-interfaces-using-jwts
+
+A couple of quick videos that can be enjoyed on the couch
+
+- Cross Site Scripting (XSS): https://www.youtube.com/watch?v=L5l9lSnNMxg
+- Cookie Stealing: https://www.youtube.com/watch?v=T1QEs3mdJoc
+
+##### Exercises:
+There is "only" one exercise for this period (prepare youself for the Security Questions in the learning goal for this period)
+
+
+[Site to hack will follow](#)
+
+##### Slides:
 TBD
+[Slides](#)
 
 # **4-10-Wednesday**
 ###Complete Hand-in for Period-2
