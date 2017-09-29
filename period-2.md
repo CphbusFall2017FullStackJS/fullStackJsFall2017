@@ -124,6 +124,10 @@ A couple of quick videos that can be enjoyed on the couch
 - Cross Site Request Forgery Explained: https://www.youtube.com/watch?v=vRBihr41JTo
 - Cookie Stealing: https://www.youtube.com/watch?v=T1QEs3mdJoc
 
+#### Snippets
+
+[snippet](https://docs.google.com/document/d/1LIDVt8stIi770lm9xzgiawvOOrCQR3VHgqqBj6UEkeU/edit?usp=sharing)
+
 ##### Exercises:
 There is "only" one exercise for this period (prepare youself for the Security Questions in the learning goal for this period)
 
