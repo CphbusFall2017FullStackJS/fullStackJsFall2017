@@ -7,6 +7,7 @@ This is the language we are going to "have a lot of fun with" in the coming mont
 ## How I have designed the course.
 
 The course is divided up into ~~(6)~~ 5 periods, each with a specific topic and a number of exercises which will form the basis for the examination.
+
 At least one period will be marked as non-compulsory, which mean you can replace it with a topic decided by yourself (must be approved by me).
 
 You will find the description for the six periods on github, but please note that it WILL change, so don't count on it more than 1-2 lessons into the future. The documents for each period will also include all literature, exercises, links to slides etc.
