@@ -8,6 +8,8 @@
 
 [Learning Goals Period 3 - TBD](#)
 
+[Main reference for this Period](http://graphql.org/learn/)
+
 ### 06-10-Friday
 * GraphQL overview
 * Setting up a simple GraphQL backend with an Express Server
