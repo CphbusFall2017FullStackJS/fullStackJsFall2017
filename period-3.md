@@ -42,6 +42,8 @@ Watch these videos:
 
 [React + Apollo Tutorial - Introduction](https://www.howtographql.com/react-apollo/0-introduction/)
 
+[snippets](https://docs.google.com/document/d/18BfdFJBPkf4HfLBsuTOz9Q2PhNi_psiI63sXFF13KDk/edit?usp=sharing)
+
 ### 4-10-Wednesday
 
 ###Complete Hand-in for Period-3
