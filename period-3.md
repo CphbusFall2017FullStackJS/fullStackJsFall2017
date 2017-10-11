@@ -50,7 +50,7 @@ Watch these videos:
 
 **Period Milestone**
 
-* Period Hand-in: TBD
-* Hand-in Document TBD
+* Period Hand-in: Sunday october 15th 22.00
+* [Hand-in Document](https://docs.google.com/spreadsheets/d/1jooe7jAEJSO6o8qVFoy3nyGwb7Goie8eMQ0vm0kuDck/edit?usp=sharing)
 
 *Observe, no review-part for this hand-in*
