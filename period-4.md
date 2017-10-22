@@ -24,6 +24,8 @@ We will also introduce some specific features with MongoDB, related to location.
 
 [Exercises - day1](https://docs.google.com/document/d/1Rno9-x_B4dJwEDonpDpcq-gY3EjSxf9Lt42s9GKpYDE/edit?usp=sharing)
 
+[Slides TBD](#)
+
 ### 1-11-Wednesday
 * React Native Continued
 * Access hardware features on the phone
