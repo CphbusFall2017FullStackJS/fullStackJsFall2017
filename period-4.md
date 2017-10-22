@@ -39,14 +39,14 @@ TBD
 
 ### 3-11-Wednesday
 
-####You have two options for the last two days in this period (since not all did GraphQL in period 3
+#### You have two options for the last two days in this period (since not all did GraphQL in period 3
 
 - Mini project (details will follow)
 - React Native with GraphQL
 
 ### 8-11-Wednesday
 
-###Complete Hand-in for Period-4
+### Complete Hand-in for Period-4
 
 **Period Milestone**
 
