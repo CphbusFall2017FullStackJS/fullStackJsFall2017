@@ -24,7 +24,7 @@ We will also introduce some specific features with MongoDB, related to location.
 
 [Exercises - day1](https://docs.google.com/document/d/1Rno9-x_B4dJwEDonpDpcq-gY3EjSxf9Lt42s9GKpYDE/edit?usp=sharing)
 
-[Slides TBD](#)
+[Slides](https://efif.sharepoint.com/sites/cph/Lyngby/_layouts/15/guestaccess.aspx?docid=04450ab78c4af4a52b57374a8a0bbab99&authkey=Abf1DjeZQAopUlja2hem9cs&e=94a6749f834443fb87011d1d0095654a)
 
 ### 1-11-Wednesday
 * React Native Continued
