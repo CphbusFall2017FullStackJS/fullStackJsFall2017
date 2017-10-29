@@ -40,7 +40,7 @@ We will also introduce some specific features with MongoDB, related to location.
 
 **Exercises:**
 
-TBD
+[Exercises Day-2](https://docs.google.com/document/d/1lD7OTu_XmCEBb5RHeGiFZw3AhhWUTiBNGOkkwgOnWhQ/edit?usp=sharing)
 
 ### 3-11-Wednesday
 
