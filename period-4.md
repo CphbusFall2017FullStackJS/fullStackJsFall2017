@@ -6,7 +6,7 @@ We will also introduce some specific features with MongoDB, related to location.
 *
 
 
-[Learning Goals Period 4 TBD](#)
+[Learning Goals Period 4 TBD](https://docs.google.com/document/d/12e5uhatTA5uCgByfcWNtLdnBl97pjBNbeMpKDBHOA3E/edit?usp=sharing)
 
 - [EXPO - main reference for this Period](https://expo.io/)
 - [React Native - main reference for this Period](http://facebook.github.io/react-native/docs/getting-started.html)
