@@ -30,8 +30,13 @@ We will also introduce some specific features with MongoDB, related to location.
 * React Native Continued
 * Access hardware features on the phone
 * Communicating with a REST-backend
+* Exposing a localhost backend to the "world" (your phone) using [ngrok](https://ngrok.com/)
+* Debuging a React Native Application
+
 #### Before this lesson you should:
-TBD
+- Complete the Facebook tutorial we started with last week
+- Read/skim this article about React Native Debugging (stop when you get to the section "Debugging in Ejected Apps"
+- Skim the [Expo API Refefence](https://docs.expo.io/versions/latest/sdk/index.html) to see how many cool hardware features we can access via the Expo API
 
 **Exercises:**
 
