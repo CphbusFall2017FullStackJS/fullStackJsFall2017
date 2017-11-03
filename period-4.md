@@ -46,7 +46,7 @@ We will also introduce some specific features with MongoDB, related to location.
 
 #### You have two options for the last two days in this period (since not all did GraphQL in period 3
 
-- Mini project (details will follow)
+- Mini project ([friend finder](https://docs.google.com/document/d/1wXjszNKdMXSB4GwXnXzHNxvvif_hJSKk3a6Md9dnLK4/edit))
 - React Native with GraphQL
 
 ### 8-11-Wednesday
