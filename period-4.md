@@ -55,9 +55,10 @@ We will also introduce some specific features with MongoDB, related to location.
 
 **Period Milestone**
 
-* Period Hand-in: Friday November 10th 22.00
-* [Hand-in Document](https://docs.google.com/spreadsheets/d/1kEoxM0alblnuC9Qec7yliwP_1spc-tdS8vBKwKVKyYw/edit?usp=sharing)
-*Since you can complete this hand-in in groups (2 persons), you must fill in your names this time*
-*There are two required links for this hand-in*
-- *The usual GitHub link*
-- *A link to the deployed App (the link you get when you press "Publish" in the EXPO EXE**
+ Period Hand-in: Friday November 10th 22.00
+
+[Hand-in Document](https://docs.google.com/spreadsheets/d/1kEoxM0alblnuC9Qec7yliwP_1spc-tdS8vBKwKVKyYw/edit?usp=sharing)
+**Since you can complete this hand-in in groups (2 persons), you must fill in your names this time**
+**There are two required links for this hand-in**
+- **The usual GitHub link**
+- **A link to the deployed App (the link you get when you press "Publish" in the EXPO EXE**
