@@ -29,7 +29,7 @@
 - Read this article  [6 Reasons Why JavaScript’s Async/Await Blows Promises Away](https://hackernoon.com/6-reasons-why-javascripts-async-await-blows-promises-away-tutorial-c7ec10518dd9)
 
 **Exercises:**
-[Exercises - async-await TBD]()
+[Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing)
 
 **Slides**
 [slides](http://localhost:3001/promises/promises.html#16)
