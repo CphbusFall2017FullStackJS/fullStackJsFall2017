@@ -37,12 +37,13 @@
 ### 22-11-Wedensday ###
 * JavaScript functional or OO ??
 * A quick recap on MobX and JavaScript the OO way
-* Simplify promises with ES7 async-functions
 * An introduction to functional programming, immutable data and Redux
 
 #### Before this lesson you should: ####
+Watch this this video (recap from third semester) [Understanding MobX vs Redux](https://www.youtube.com/watch?v=83v8cdvGfeA)
+Read/skim this article [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 
-TBD
+Read this [article](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) OR watch this [video](https://www.youtube.com/watch?v=9M-r8p9ey8U&index=2&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) related to immutability in JavaScript with React.
 
 **Exercises:**
 [Exercises (TBD)]()
