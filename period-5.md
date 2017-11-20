@@ -40,10 +40,10 @@
 * An introduction to functional programming, immutable data and Redux
 
 #### Before this lesson you should: ####
-Watch this this video (recap from third semester) [Understanding MobX vs Redux](https://www.youtube.com/watch?v=83v8cdvGfeA)
-Read/skim this article [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
+- Watch this this video (recap from third semester) [Understanding MobX vs Redux](https://www.youtube.com/watch?v=83v8cdvGfeA)
+- Read/skim this article [Redux or MobX: An attempt to dissolve the Confusion](https://www.robinwieruch.de/redux-mobx-confusion/)
 
-Read this [article](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) OR watch this [video](https://www.youtube.com/watch?v=9M-r8p9ey8U&index=2&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) related to immutability in JavaScript with React.
+- Read this [article](https://wecodetheweb.com/2016/02/12/immutable-javascript-using-es6-and-beyond/) OR watch this [video](https://www.youtube.com/watch?v=9M-r8p9ey8U&index=2&list=PLoYCgNOIyGADILc3iUJzygCqC8Tt3bRXt) related to immutability in JavaScript with React.
 
 **Exercises:**
 [Exercises (TBD)]()
