@@ -49,7 +49,7 @@
 [Complete this tutorial (plain Redux - no React)](https://www.sitepoint.com/getting-started-redux/)
 
 **Slides**
-[slides (TBD)]()
+[slides (State,MobX and Redux)](http://slides.mydemos.dk/state/state.htm)
 
 ### 24-11-Friday ###
 * Redux Continued
