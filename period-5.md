@@ -68,7 +68,7 @@ Feel free to use this [example/tutorial](https://redux.js.org/docs/basics/) as i
 
 **Slides**
 
-[slides (Redux with React)]((http://slides.mydemos.dk/state/state.html#29)
+[slides (Redux with React)](http://slides.mydemos.dk/state/state.html#29)
 
 ### 29-11-Wednesday ###
 
