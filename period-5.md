@@ -57,7 +57,8 @@
 
 #### Before this lesson you should: ####
 
-TBD
+- [Read (and code) this tutorial](https://daveceddia.com/how-does-redux-work/)
+
 
 **Exercises:**
 [Exercises (TBD)]()
