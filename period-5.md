@@ -67,7 +67,8 @@ If not already done, clone this [repo](https://github.com/CphbusFall2017FullStac
 Feel free to use this [example/tutorial](https://redux.js.org/docs/basics/) as inspiration
 
 **Slides**
-[slides (TBD)]()
+
+[slides (Redux with React)]((http://slides.mydemos.dk/state/state.html#29)
 
 ### 29-11-Wednesday ###
 
