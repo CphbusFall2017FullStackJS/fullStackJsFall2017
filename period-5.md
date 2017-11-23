@@ -61,7 +61,9 @@
 
 
 **Exercises:**
-[Exercises (TBD)]()
+If not already done, clone this [repo](https://github.com/CphbusFall2017FullStackJS/mobx_redux.git) and complete the missing todo-example (Redux)
+
+Feel free to use this [example/tutorial](https://redux.js.org/docs/basics/) as inspiration
 
 **Slides**
 [slides (TBD)]()
