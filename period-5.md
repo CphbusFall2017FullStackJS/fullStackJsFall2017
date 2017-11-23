@@ -57,10 +57,11 @@
 
 #### Before this lesson you should: ####
 
-- [Read (and code) this tutorial](https://daveceddia.com/how-does-redux-work/)
+[Read (and code) this tutorial](https://daveceddia.com/how-does-redux-work/)
 
 
 **Exercises:**
+
 If not already done, clone this [repo](https://github.com/CphbusFall2017FullStackJS/mobx_redux.git) and complete the missing todo-example (Redux)
 
 Feel free to use this [example/tutorial](https://redux.js.org/docs/basics/) as inspiration
