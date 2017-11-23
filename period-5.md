@@ -17,7 +17,7 @@
 [Exercises - Promises](https://docs.google.com/document/d/1jpqmitlHKeIcWzDdbe-jO281xFQiGywP3c2iKCDeffQ/edit?usp=sharing)
 
 **Slides**
-[slides](http://localhost:3001/promises/promises.html)
+[slides](http://slides.mydemos.dk/promises/promises.html)
 
 ### 17-11-Friday ###
 * Promises recap
@@ -32,7 +32,7 @@
 [Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing)
 
 **Slides**
-[slides](http://localhost:3001/promises/promises.html#16)
+[slides](http://slides.mydemos.dk/promises.html#16)
 
 ### 22-11-Wedensday ###
 * JavaScript functional or OO ??
