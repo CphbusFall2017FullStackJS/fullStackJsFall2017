@@ -77,6 +77,6 @@ Feel free to use this [example/tutorial](https://redux.js.org/docs/basics/) as i
 *Period Milestone*
 
 - Period Hand-in: Friday December 1th 22.00
-- [Hand-in Document]https://docs.google.com/spreadsheets/d/18orwj1jB0jqg1rvqE0vyD0PCt3n_1mw_WojbSLtp_Yw/edit?usp=sharing)
+- [Hand-in Document](https://docs.google.com/spreadsheets/d/18orwj1jB0jqg1rvqE0vyD0PCt3n_1mw_WojbSLtp_Yw/edit?usp=sharing)
 
 
