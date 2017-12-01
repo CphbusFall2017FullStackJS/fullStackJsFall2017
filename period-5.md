@@ -86,3 +86,8 @@ Feel free to use this [example/tutorial](https://redux.js.org/docs/basics/) as i
 - [Hand-in Document](https://docs.google.com/spreadsheets/d/18orwj1jB0jqg1rvqE0vyD0PCt3n_1mw_WojbSLtp_Yw/edit?usp=sharing)
 
 
+
+---------------------
+
+[evaluering](https://docs.google.com/document/d/1Z-LFThAYkpgw4WfBFexkSwyTXUlPM1rIgv6ZGBJ1Npo/edit?usp=sharing)
+
