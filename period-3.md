@@ -7,7 +7,7 @@
 
 
 [Learning Goals Period 3](https://docs.google.com/document/d/12Ri_Kt8J7a0wNBwbhVnR-jbH9ENAS0EMrfTeGmxsNhQ/edit?usp=sharing)
-,.....[Learning Goals Period 3 (for those of you who got an OK to do React)](https://docs.google.com/document/d/1Go73pX9mLSipS0BJ8QtqGJuSwO68Zs9NUxyGA_fpmAA/edit?usp=sharing)
+,.....[Learning Goals Period 3 (for those of you who got an OK to do React)](https://docs.google.com/document/d/1WgDwEBUoSfngJRjcwjhVEeuh7pt8BhWMDQ62sFkHRso/edit?usp=sharing)
 
 [Main reference for this Period](http://graphql.org/learn/)
 
