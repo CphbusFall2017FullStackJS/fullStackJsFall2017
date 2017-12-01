@@ -31,6 +31,12 @@
 **Exercises:**
 [Exercises - async-await](https://docs.google.com/document/d/1uE22QlBGuWRWCB8PqR0fteRygiwfv4V0nZ5lhAq-r0k/edit?usp=sharing)
 
+
+--------------------------------
+
+Evaluering
+[](
+
 **Slides**
 [slides](http://slides.mydemos.dk/promises.html#16)
 
