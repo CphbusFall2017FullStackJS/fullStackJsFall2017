@@ -144,7 +144,7 @@ TBD
 **Period Milestones:**
 * Period Hand-in: October 4th. 20.00
 * Reviews must be completed: October 5th. 22.00.
-* Hand-in Document [Add your git-links here](https://docs.google.com/spreadsheets/d/1WDHxsD1IleOnMwbKchA2R69ui-OaJfSqwSU7mFBHbQo/edit?usp=sharing):  
-* [How to hand in (Closed)](#)
+* Hand-in Document [Add your git-links here (Closed)](#):  
+* [How to hand in](#)
 
 
