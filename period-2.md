@@ -136,7 +136,7 @@ There is "only" one exercise for this period (prepare youself for the Security Q
 
 ##### Slides:
 TBD
-[Slides](#)
+[Slides (please note, a great deal of the slides is "active" meant for "hacker day")](http://slides.mydemos.dk/security1/security.html#32)
 
 # **4-10-Wednesday**
 ###Complete Hand-in for Period-2
