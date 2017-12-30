@@ -3,7 +3,7 @@
 
 *In this period we will introduce some of the more "advanced" features in JavaScript and related libraries. We will get a better understanding of promises, and learn to write our own promise-code. We will see how ES7 async-functions simplify the way to use promises. Finally we will introduce functional concepts like immutable and Redux as a way to handle data and state*
 
-[Learning Goals Period 5 (not complete)](https://docs.google.com/document/d/1Go73pX9mLSipS0BJ8QtqGJuSwO68Zs9NUxyGA_fpmAA/edit?usp=sharing)
+[Learning Goals Period 5](https://docs.google.com/document/d/1Go73pX9mLSipS0BJ8QtqGJuSwO68Zs9NUxyGA_fpmAA/edit?usp=sharing)
 
 ### 15-11-Wednesday
 * ES6 Promises
